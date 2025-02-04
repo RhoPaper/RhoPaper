@@ -12,4 +12,9 @@ I'm [RhoPaper](https://rhopaper.top/),An unknown student~
 - 推特 X | [https://x.com/RhoPaper_](https://x.com/RhoPaper_)
 - 共创世界 CCW | [https://www.ccw.site/student/6250dfad4b064f31e504f47b](https://www.ccw.site/student/6250dfad4b064f31e504f47b)
 
->当前README还在完善中……
+
+## 自我评价
+
+二次元，死肥宅，萝莉控……
+
+>当前README还在完善中 UPDATING NOW...
