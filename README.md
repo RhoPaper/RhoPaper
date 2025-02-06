@@ -1,4 +1,4 @@
-![](https://socialify.git.ci/RhoPaper/RhoPaper/image?font=Jost&name=1&pattern=Circuit+Board&theme=Auto)
+![RhoPaper](https://socialify.git.ci/RhoPaper/RhoPaper/image?custom_description=%E7%BA%B8%E8%87%B3%E6%89%A7%0APaper+to+Hold.&description=1&font=Jost&logo=https%3A%2F%2Frhopaper.top%2Favatar.jpg&name=1&pattern=Circuit+Board&theme=Auto)
 
 # 你好 Hi,there!
 
