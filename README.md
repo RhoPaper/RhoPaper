@@ -12,7 +12,7 @@ I'm [RhoPaper](https://rhopaper.top/),An unknown student~
 
 [![RhoPaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoPaper&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhoPaper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 友情链接 Hyperlinks
 
