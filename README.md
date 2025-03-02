@@ -8,9 +8,11 @@
 
 I'm [RhoPaper](https://rhopaper.top/),An unknown student~
 
-## 在Github~~精神~~状态
+## 在Github的~~精神~~状态
 
-[![RhoPaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoPaper)](https://github.com/anuraghazra/github-readme-stats)
+[![RhoPaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoPaper&show_icons=true&theme=dark&border_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 友情链接 Hyperlinks
 
