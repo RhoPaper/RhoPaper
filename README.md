@@ -8,7 +8,7 @@
 
 I'm [RhoPaper](https://rhopaper.top/),An unknown student~
 
-## 在Github的~~精神~~状态
+## 在Github的~~精神~~状态 Activities on Github
 
 [![RhoPaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoPaper&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,8 +23,13 @@ I'm [RhoPaper](https://rhopaper.top/),An unknown student~
 - 共创世界 CCW | [https://www.ccw.site/student/6250dfad4b064f31e504f47b](https://www.ccw.site/student/6250dfad4b064f31e504f47b)
 
 
-## 自我评价
+## 自我评价 Self-evaluation
 
-二次元，死肥宅，萝莉控……
+没什么实力的编程爱好者，尤喜前端Web开发。目前学习：HTML、CSS、JavaScript、Vue.js。
+> A programming enthusiast with little experience, especially interested in front-end web development. Currently learning: HTML, CSS, JavaScript, Vue.js.
 
->当前README还在完善中 UPDATING NOW...
+常常面向AI编程……
+> Often oriented towards AI programming...
+
+
+*当前README还在完善中  UPDATING NOW...*
