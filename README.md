@@ -6,7 +6,7 @@
 
 我是[RhoPaper](https://rhopaper.top/)，一个默默无闻的学牲党~
 
-I'm [RhoPaper](https://rhopaper.top/),An unknown student~
+I'm [RhoPaper](https://rhopaper.top/),an unknown student~
 
 ## 在Github的~~精神~~状态 Activities on Github
 
